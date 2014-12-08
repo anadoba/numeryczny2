@@ -1,6 +1,6 @@
 ## Debug files
-ZbieznoscMetodyNewtona/bin/*
-ZbieznoscMetodyNewtona/obj/*
+*/[Bb]in/
+*/[Oo]bj/
 
 ## User pref
 *.suo
